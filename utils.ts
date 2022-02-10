@@ -1,4 +1,4 @@
-import { blue, gray, green, yellow } from "./deps.js";
+import { blue, gray, green, yellow } from "https://deno.land/std@0.125.0/fmt/colors.ts";
 
 export function designType(type: string, values: unknown) {
   console.log(" ", blue(`@${type}(`), values, blue(")"));

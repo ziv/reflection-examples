@@ -3,7 +3,7 @@
 TypeScript Reflect Metadata examples.
 
 ```shell
-deno run examples/design.ts
+deno run ./example.ts
 ```
 
 ## References
