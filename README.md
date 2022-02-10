@@ -1,2 +1,7 @@
 # reflection-examples
-typescript reflect metadata examples
+
+TypeScript Reflect Metadata examples.
+
+```shell
+deno run examples/design.ts
+```
