@@ -1,7 +1,7 @@
 import "https://deno.land/x/reflection/mod.ts";
 import { designType, header, text, title } from "./utils.ts";
 import { Cls, Prp, Prm, Mth } from "./decorators.ts";
-// https://rbuckton.github.io/reflect-metadata/
+//
 //design:paramtypes
 //design:type
 //design:returntype
